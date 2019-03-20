@@ -1,1 +1,1 @@
-# This is application for youtube videos
+# Application for youtube videos
